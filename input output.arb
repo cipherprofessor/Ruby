@@ -1,0 +1,16 @@
+# Getting Input
+
+print "What is ur name ?"
+name = gets.chomp
+print "What is your age ?"
+age = gets.chomp
+puts "Your name is #{name} and your age is #{age}. Thank You"
+
+
+print "Give me an integer :"
+number = gets.chomp.to_i
+puts "You just entered #{number}"
+
+print "Give me some float :"
+number2 =gets.chomp.to_f
+puts "You just entered float #{number2}"
