@@ -1,0 +1,15 @@
+# print "How old are you ? "
+# age = gets.chomp
+# print "How tall are you ?"
+# height = gets.chomp
+# puts " You are #{age} year old and your height is #{height} cms"
+
+# #My name is Mohsin  Manzoor Bhat
+# =begin 
+# kya bolti hai public
+# code karangai aj dabakai 
+# =end
+
+# print "R u satisfied " 
+# puts "Alok has #{25+3-4} rupees in his pocket"
+
