@@ -1,0 +1,31 @@
+# def my_bio
+
+# puts "My name is Mohsin Manzoor Bhat",
+# print " I am a Software Developement Engineer at FourKites",
+# puts " I am doing my B.Tech. CSE from Lovely Professional University with a CGPA of 8.19",
+# puts "I love to read books and watch the sky",
+# end
+
+# my_bio
+
+           
+
+# name is the method name
+# var1 and var2 are the parameters
+def name (var1 = "MM", var2 = "B")
+
+	# statements to be executed
+	puts "First and Middle name is #{var1}"
+	puts "Last name  is #{var2}"
+end
+
+# with parameters
+name "Mohsin Manzoor ", "Bhat"
+
+puts ""
+
+puts "Without Parameters"
+puts ""
+
+# without  parameters
+name
